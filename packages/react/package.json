@@ -1,7 +1,6 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@ignite-ui/react",
   "version": "1.0.0",
-  "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -13,8 +12,10 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@ignite-ui/tokens": "*",
     "@ignite-ui/ts-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.2"
-  }
+  },
+  "description": ""
 }

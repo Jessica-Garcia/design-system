@@ -2,7 +2,7 @@ import * as Checkbox from '@radix-ui/react-checkbox'
 import { styled, keyframes } from '../../styles'
 
 export const CheckboxContainer = styled(Checkbox.Root, {
-  all: 'unset',
+  all: 'unset', // tira todas as propriedades padrão do elemento
   width: '$6',
   height: '$6',
   backgroundColor: '$gray900',

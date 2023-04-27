@@ -1,0 +1,2 @@
+import{A as t}from"./index.380a684c.js";import"./IconBase.esm.28a10898.js";import"./index.654a6740.js";import"./iframe.c3ccca4a.js";import"./jsx-runtime.94c0008c.js";import"./index.532fa44e.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/Jessica-Garcia.png",alt:"J\xE9ssica Garcia"},argTypes:{src:{control:{type:"text"}}}},m={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{m as Primary,e as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.305bce03.js.map
